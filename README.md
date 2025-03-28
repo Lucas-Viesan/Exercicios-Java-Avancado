@@ -19,3 +19,7 @@
 - [Exercício 07](hhttp://github.com/Lucas-Viesan/Exercicios-Java-Avancado/tree/main/Exercicio07/src) - Crie um método que receba um Optional<Double> e retorne seu valor ou lance uma exceção personalizada (ValorNaoEncontradoException) caso esteja vazio.
 
 - [Exercício 08](http://github.com/Lucas-Viesan/Exercicios-Java-Avancado/tree/main/Exercicio08/src) - Crie um método que receba um Optional<Integer> e retorne o valor apenas se for maior que 10, caso contrário, retorne um Optional vazio.
+
+- [Exercício 09](http://github.com/Lucas-Viesan/Exercicios-Java-Avancado/tree/main/Exercicio09/src) -Crie uma lista de Optional<String> e retorne apenas o primeiro valor que comece com a letra "A". Caso não haja, retorne "Sem resultado"..
+
+- [Exercício 10](http://github.com/Lucas-Viesan/Exercicios-Java-Avancado/tree/main/Exercicio10/src) - Crie uma lista de nomes e utilize .stream() para encontrar o primeiro nome que tenha mais de 5 caracteres. Retorne esse nome dentro de um Optional.
